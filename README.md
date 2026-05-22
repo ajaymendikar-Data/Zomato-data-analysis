@@ -35,7 +35,7 @@ The dataset contains information about restaurants including:
 
 ## 🛠 Tools & Technologies
 
-* Tableau → Data Visualization & Dashboard
+* Power BI → Data Visualization & Dashboard
 * Excel/CSV → Data Source
 * Data Modeling → Relationship building & transformations
 
